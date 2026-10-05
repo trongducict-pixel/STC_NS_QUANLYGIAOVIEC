@@ -1,0 +1,6 @@
+{
+  "name": "eReport Sở Tài Chính Ninh Bình",
+  "description": "Hệ thống quản lý, theo dõi và đôn đốc tiến độ báo cáo của Phòng Ngân sách - Sở Tài chính Ninh Bình cho 129 xã, phường, thị trấn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
